@@ -5,7 +5,7 @@
   "version": "0.1.18",
   "description": "Save articles to your Omnivore library",
   "author": "Omnivore Media, Inc",
-  "default_locale": "en_US",
+  "default_locale": "en",
   "developer": {
     "name": "Omnivore Media, Inc",
     "url": "https://omnivore.app/"
